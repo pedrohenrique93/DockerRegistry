@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "usuario": "perocha",
+      "grupo": "admin",
+      "empresa": "Teste 1"
+    },
+    {
+      "id": 2,
+      "usuario": "jdoe",
+      "grupo": "user",
+      "empresa": "Teste 2"
+    },
+    {
+      "id": 3,
+      "usuario": "asmith",
+      "grupo": "user",
+      "empresa": "Teste 3"
+    },
+    {
+      "id": 4,
+      "usuario": "mjane",
+      "grupo": "admin",
+      "empresa": "Teste 4"
+    },
+    {
+      "id": 5,
+      "usuario": "bwayne",
+      "grupo": "user",
+      "empresa": "Teste 5"
+    },
+    {
+      "id": 6,
+      "usuario": "ckent",
+      "grupo": "admin",
+      "empresa": "Teste 6"
+    },
+    {
+      "id": 7,
+      "usuario": "pparker",
+      "grupo": "user",
+      "empresa": "Teste 7"
+    },
+    {
+      "id": 8,
+      "usuario": "tstark",
+      "grupo": "admin",
+      "empresa": "Teste 8"
+    },
+    {
+      "id": 9,
+      "usuario": "rrogers",
+      "grupo": "user",
+      "empresa": "Teste 9"
+    },
+    {
+      "id": 10,
+      "usuario": "nromanoff",
+      "grupo": "admin",
+      "empresa": "Teste 10"
+    }
+  ]
+}
