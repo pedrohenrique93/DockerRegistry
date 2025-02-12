@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "posts": 
     {
     "data": [
         {
@@ -93,5 +93,5 @@
     "total": 10,
     "requestDataTime": "2025-02-12T18:25:04Z"
 }
-  ]
+  
 }
