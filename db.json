@@ -9,8 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    {
-   "data":[
+       "data":[
       {
          "deadline":"2024-12-11",
          "pending":[
@@ -121,6 +120,6 @@
    "pageSize":200,
    "total":10,
    "requestDataTime":"2025-02-12T18:25:04Z"
-}
+
   }
 }
