@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "GET": [
     {
       "id": 1,
       "usuario": "perocha",
