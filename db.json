@@ -1,48 +1,56 @@
 {
   "tags-list": [
     {
+      "nome": "ErpWS",
       "repository": "ErpWS",
       "name": "ErpWS",
       "tag": "1.0",
       "size": "200MB"
     },
     {
+      "nome": "ErpWS",
       "repository": "ErpWS",
       "name": "ErpWS",
       "tag": "1.1",
       "size": "210MB"
     },
     {
+      "nome": "ErpWS",
       "repository": "ErpWS",
       "name": "ErpWS",
       "tag": "1.2",
       "size": "220MB"
     },
     {
+      "nome": "ErpWS",
       "repository": "ErpWS",
       "name": "ErpWS",
       "tag": "latest",
       "size": "230MB"
     },
     {
+      "nome": "Auto",
       "repository": "Auto",
       "name": "Auto",
       "tag": "1.0",
       "size": "200MB"
     },
     {
+      "nome": "Auto",
       "repository": "Auto",
       "name": "Auto",
       "tag": "1.1",
       "size": "210MB"
     },
     {
+      "nome": "Auto",
       "repository": "Auto",
       "name": "Auto",
       "tag": "1.2",
       "size": "220MB"
     },
     {
+      "nome": "Auto",
       "repository": "Auto",
       "name": "Auto",
       "tag": "latest",
