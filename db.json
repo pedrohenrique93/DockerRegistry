@@ -1,115 +1,24 @@
-{    
-  "test": {
-   "data":[
-      {
-         "deadline":"2024-12-11",
-         "pending":[
-            {
-               "cpf":"123456789",
-               "waitingPortfolios":[
-                  "I4PRO"
-               ],
-               "correlationID":511,
-               "pendingAnonymization":[
-                  
-               ]
-            },
-            {
-               "cpf":"321654987",
-               "waitingPortfolios":[
-                  "I4PRO"
-               ],
-               "correlationID":512,
-               "pendingAnonymization":[
-                  
-               ]
-            },
-            {
-               "cpf":"789461123",
-               "waitingPortfolios":[
-                  "I4PRO"
-               ],
-               "correlationID":513,
-               "pendingAnonymization":[
-                  
-               ]
-            },
-            {
-               "cpf":"741852963",
-               "waitingPortfolios":[
-                  "I4PRO"
-               ],
-               "correlationID":514,
-               "pendingAnonymization":[
-                  
-               ]
-            },
-            {
-               "cpf":"258741369",
-               "waitingPortfolios":[
-                  "I4PRO"
-               ],
-               "correlationID":515,
-               "pendingAnonymization":[
-                  
-               ]
-            },
-            {
-               "cpf":"012654789",
-               "waitingPortfolios":[
-                  "I4PRO"
-               ],
-               "correlationID":516,
-               "pendingAnonymization":[
-                  
-               ]
-            },
-            {
-               "cpf":"321852147",
-               "waitingPortfolios":[
-                  "I4PRO"
-               ],
-               "correlationID":517,
-               "pendingAnonymization":[
-                  
-               ]
-            },
-            {
-               "cpf":"023159478",
-               "waitingPortfolios":[
-                  "I4PRO"
-               ],
-               "correlationID":518,
-               "pendingAnonymization":[
-                  
-               ]
-            },
-            {
-               "cpf":"159487632",
-               "waitingPortfolios":[
-                  "I4PRO"
-               ],
-               "correlationID":519,
-               "pendingAnonymization":[
-                  
-               ]
-            },
-            {
-               "cpf":"741159357",
-               "waitingPortfolios":[
-                  "I4PRO"
-               ],
-               "correlationID":520,
-               "pendingAnonymization":[
-                  
-               ]
-            }
-         ]
-      }
-   ],
-   "page":1,
-   "pageSize":200,
-   "total":10,
-   "requestDataTime":"2025-02-14T15:30:04Z"
-}
+{
+  "tags-list": [
+    {
+      "name": "myapp",
+      "tag": "1.0",
+      "size": "200MB"
+    },
+    {
+      "name": "myapp",
+      "tag": "1.1",
+      "size": "210MB"
+    },
+    {
+      "name": "myapp",
+      "tag": "1.2",
+      "size": "220MB"
+    },
+    {
+      "name": "myapp",
+      "tag": "latest",
+      "size": "230MB"
+    }
+  ]
 }
