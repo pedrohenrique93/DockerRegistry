@@ -1,68 +1,34 @@
 {
-  "tags-list": [
+  "tags-description": [
     {
-      "Id": 1,
-      "nome": "ErpWS",
-      "repository": "ErpWS",
-      "name": "ErpWS",
-      "tag": "1.0",
-      "size": "200MB"
-    },
-    {
-      "Id": 2,
-      "nome": "ErpWS",
-      "repository": "ErpWS",
-      "name": "ErpWS",
-      "tag": "1.1",
-      "size": "210MB"
-    },
-    {
-      "Id": 3,
-      "nome": "ErpWS",
-      "repository": "ErpWS",
-      "name": "ErpWS",
-      "tag": "1.2",
-      "size": "220MB"
-    },
-    {
-      "Id": 4,
-      "nome": "ErpWS",
-      "repository": "ErpWS",
-      "name": "ErpWS",
-      "tag": "latest",
-      "size": "230MB"
-    },
-    {
-      "Id": 5,
-      "nome": "Auto",
-      "repository": "Auto",
-      "name": "Auto",
-      "tag": "1.0",
-      "size": "200MB"
-    },
-    {
-      "Id": 6,
-      "nome": "Auto",
-      "repository": "Auto",
-      "name": "Auto",
-      "tag": "1.1",
-      "size": "210MB"
-    },
-    {
-      "Id": 7,
-      "nome": "Auto",
-      "repository": "Auto",
-      "name": "Auto",
-      "tag": "1.2",
-      "size": "220MB"
-    },
-    {
-      "Id": 8,
-      "nome": "Auto",
-      "repository": "Auto",
-      "name": "Auto",
-      "tag": "latest",
-      "size": "230MB"
-    }
+    "dockerRepository": "i4pro/pd/i4proapi",
+    "Tag": "20250000.3",
+    "dockerDescription": "Este repositório contém a imagem Docker para a aplicação i4proAPI, que é uma API robusta para integração de sistemas.",
+    "howToUse": "Para usar esta imagem Docker, execute o seguinte comando:\n\n```bash\n$ docker pull i4pro/pd/i4proapi:20250000.3\n$ docker run -d -p 8080:8080 i4pro/pd/i4proapi:20250000.3\n```\nIsso irá baixar a imagem e iniciar um contêiner que estará acessível na porta 8080."
+  },
+  {
+    "dockerRepository": "i4pro/pd/i4proapi",
+    "Tag": "20250000.2",
+    "dockerDescription": "Este repositório contém a imagem Docker para a aplicação i4proAPI, que é uma API robusta para integração de sistemas.",
+    "howToUse": "Para usar esta imagem Docker, execute o seguinte comando:\n\n```bash\n$ docker pull i4pro/pd/i4proapi:20250000.2\n$ docker run -d -p 8080:8080 i4pro/pd/i4proapi:20250000.2\n```\nIsso irá baixar a imagem e iniciar um contêiner que estará acessível na porta 8080."
+  },
+  {
+    "dockerRepository": "i4pro/pd/i4proapi",
+    "Tag": "20250000.1",
+    "dockerDescription": "Este repositório contém a imagem Docker para a aplicação i4proAPI, que é uma API robusta para integração de sistemas.",
+    "howToUse": "Para usar esta imagem Docker, execute o seguinte comando:\n\n```bash\n$ docker pull i4pro/pd/i4proapi:20250000.1\n$ docker run -d -p 8080:8080 i4pro/pd/i4proapi:20250000.1\n```\nIsso irá baixar a imagem e iniciar um contêiner que estará acessível na porta 8080."
+  },
+  {
+    "dockerRepository": "i4pro/pd/i4proapi",
+    "Tag": "20250000.0",
+    "dockerDescription": "Este repositório contém a imagem Docker para a aplicação i4proAPI, que é uma API robusta para integração de sistemas.",
+    "howToUse": "Para usar esta imagem Docker, execute o seguinte comando:\n\n```bash\n$ docker pull i4pro/pd/i4proapi:20250000.0\n$ docker run -d -p 8080:8080 i4pro/pd/i4proapi:20250000.0\n```\nIsso irá baixar a imagem e iniciar um contêiner que estará acessível na porta 8080."
+  },
+  {
+    "dockerRepository": "i4pro/pd/i4proapi",
+    "Tag": "latest",
+    "dockerDescription": "Este repositório contém a imagem Docker para a aplicação i4proAPI, que é uma API robusta para integração de sistemas.",
+    "howToUse": "Para usar esta imagem Docker, execute o seguinte comando:\n\n```bash\n$ docker pull i4pro/pd/i4proapi:latest\n$ docker run -d -p 8080:8080 i4pro/pd/i4proapi:latest\n```\nIsso irá baixar a imagem e iniciar um contêiner que estará acessível na porta 8080."
+  }
   ]
 }
