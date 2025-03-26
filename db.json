@@ -1,8 +1,10 @@
 {
   "peters": [
     {
-      "id": 1,
-      "title": "hello"
+      "dockerRepository":"i4pro/pd/i4proapi",
+       "Tag":"latest",
+       "dockerDescription":"Este repositório contém a imagem Docker para a aplicação i4proAPI, que é uma API robusta para integração de sistemas.",
+       "howToUse":"Para usar esta imagem Docker, execute o seguinte comando:\n\n```bash\n$ docker pull i4pro/pd/i4proapi:latest\n$ docker run -d -p 8080:8080 i4pro/pd/i4proapi:latest\n```\nIsso irá baixar a imagem e iniciar um contêiner que estará acessível na porta 8080."
     }
   ]
 }
